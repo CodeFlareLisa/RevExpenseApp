@@ -1,6 +1,7 @@
-package com.revature.AssignWk2.Day7;
+package com.revature.AssignWk2;
 
 //Day 7 Exercises 1. Program with try and catch & finally block
+// Code shows how to use the try catch & finally block
 
 public class Day7Ex1 {
     public static void main(String[] args) {

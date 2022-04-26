@@ -1,7 +1,7 @@
-package com.revature.AssignWk2.Day7;
+package com.revature.AssignWk2;
 
 // Day 7 Exercises, Question 3, Program illustrating throws keyword
-// java throws keyword s used to declare an exception
+// java throws keyword is used to declare an exception
 
 public class Day7Ex3 {
     public static void main(String[] args) throws Exception{
