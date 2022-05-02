@@ -4,8 +4,6 @@ package com.revature.TWeek3.Day12.Exercises;
 // Finished
 
 import java.io.*;
-import java.io.BufferedInputStream;
-import java.io.FileInputStream;
 import java.util.Scanner;
 
 
