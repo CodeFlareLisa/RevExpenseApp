@@ -1,7 +1,7 @@
 package com.revature.TWeek3.Day12.Exercises;
 
 // Day 12, Exercise question 8, Write a Java program to find the longest word in a text file
-// fix the file path, line 18, then it should run correctly
+// finished
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -15,7 +15,8 @@ public class Day12Ex8 {
     public String findLongestWord() throws FileNotFoundException {
         String longest_word = "";
         String current;
-        Scanner scanner = new Scanner(new File("/first.txt"));
+        Scanner scanner = new Scanner(new File("first.txt"));
+        System.out.println("The longest word in the file is: ");
 
         while(scanner.hasNext()){
             current = scanner.next();
